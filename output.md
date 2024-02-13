@@ -4,3 +4,4 @@ output -
 
 Q2. Find the output for this code. Let input:- 3 2
 output -
+![output-2](https://github.com/00Tarunsain7/Assignment-2/assets/127669147/8c720446-2ce8-4b90-ae83-4c96b2d2a19b)
